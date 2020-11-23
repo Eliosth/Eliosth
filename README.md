@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliosth" alt="eliosth" /></a> </p>
 
-- 🔭 Trabajando en [Unofficial Riot Games launcher](bit.ly/30bm8wk)
+- 🔭 Trabajando en [Unofficial Riot Games launcher](https://urgl.me/)
 
 - 🌱 Actualmente aprendiendo **Electron, Godot, Pixel Art, Modelado 3d en Blender**
 
-- 🔭 Working on [Unofficial Riot Games launcher](bit.ly/30bm8wk)
+- 🔭 Working on [Unofficial Riot Games launcher](https://urgl.me/)
 
 - 🌱 I’m currently learning **Electron, Godot, Pixel Art, Blender Scultp**
 
